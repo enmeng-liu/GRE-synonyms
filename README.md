@@ -30,7 +30,7 @@
 + 促进
   + facilitate, incubate
 + 迷恋，吸引，迷人
-  + infatuate, allure, captivate，winsome, bewitching, appealing, prepossessing, riveting, arresting, ravish
+  + infatuate, allure, captivate，winsome, bewitching, appealing, prepossessing, riveting, arresting, ravish, enthrall
 + 喜欢
   + relish, adore
 + 赞同，支持
@@ -42,7 +42,7 @@
 + 节俭，节约
   + sparing, frugal
 + 重要
-  +  consequence, crucial, substantial, signal, cardinal, principal, pivotal
+  +  consequence, crucial, substantial, signal, cardinal, principal, pivotal, fateful
 
 ## Negative Words
 
@@ -51,7 +51,7 @@
 + 传染性的
   + contagious, epidemic, infectious
 + 指责，批评，谴责，斥责
-  + castigate,  censure, excoriate, fulminate, berate, vituperate, lambaste, reprove, bash, admonish
+  + castigate,  censure, excoriate, fulminate, berate, vituperate, lambaste, reprove, bash, admonish, ream
 + 净化，删去，审查
   + expurgate, censor
 + 镇压
@@ -93,7 +93,7 @@
 + 归罪
   + indict, incriminate, inculpate
 + 衰弱，虚弱，无活力
-  + prostrate, feeble, debilitate, enervate, effete, fatigue(疲惫), lag, flag, desiccate, languish, lank
+  + prostrate, feeble, debilitate, enervate, effete, fatigue(疲惫), lag, flag, desiccate, languish, lank, infirm
 + 诱骗，欺骗
   + coax, dupe, hoodwink, cajole
 + 合谋
@@ -139,7 +139,7 @@
 + 羞辱，耻辱
   + reproach, humiliate, stigma, stigmize
 + 退缩
-  + recoil, flinch, wince
+  + recoil, flinch, wince, quail
 + 狡猾
   + pry, astute
 + 轨迹
@@ -153,7 +153,7 @@
 + 病态，不舒服，不正常
   + pathological, morbid, malaise
 + 撤销，废除
-  + repeal, recant, countermand
+  + repeal, recant, countermand, annul
 + 狭隘
   + provincial, parochial, hidebound, insular,  myopic
 + 善变，多变
