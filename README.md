@@ -5,205 +5,112 @@
 + 不care词性
 + 基于要你命3000
 
-## Positive Words
+## 态度类
+
++ 赞美：panegyric
++ 批评，指责，谴责：barb, upbraid
++ 喜爱：enamored
++ 吸引，迷人：mesmeric
++ 讨厌，厌恶：anathema
++ 狂热：mania, fanatic, rabid
++ 麻木，冷漠，无感情：numb, phlegmatic, anesthetic, thick-skinned, halfhearted, frigid
++ 冷静，淡定：stoic, placid
++ 轻视：snub
++ 赞同，支持
++ 反对
++ 嘲笑，恶搞
++ 满足，满意
++ 不满：disaffected
++ 证实，支撑，证明
++ 证伪
++ 谄媚，奉承，拍马屁：hagiographic
++ 神圣：
++ 尖酸，刻薄：vitriolic, acerbic, caustic
+
+## 心情类
+
++ 开心，快乐，愉快，高兴：euphoria
++ 悲伤，忧郁，痛苦，沮丧：melodramatic, traumatic, wretched, depressed
++ 愤怒：apoplectic
++ 无聊，单调，厌倦：drab，prosaic, jaded
+
+## 性格类
+
++ 易怒，暴躁，脾气差：choleric, dyspeptic
++ 粗鲁，粗俗，没有教养：rustic, ill-bred
++ 谨慎，小心，深思熟虑：measured, calculated
++ 草率，鲁莽
++ 夸张，做作，不自然，感情过分强烈：histrionic, melodramatic, mannered, contrived
++ 特立独行，不循规蹈矩：eccentric
++ 固执，顽固，自以为是：dogmatic, wrongheaded, dogged
++ 精明，老练，世故：sophisticated
++ 慷慨：
++ 吝啬：tightfisted
++ 浪费：
++ 节俭：
+
+## 身体类
+
++ 活力，有活力
++ 虚弱，疲惫：lethargic, anemic
++ 健康，有益健康：tonic
++ 病态，生病：morbid
+
+## 作用类
 
 + 战胜，超越，征服
-  + surmount, surpass, subordinate, subjugate, subdue, vanquish
-+ 赞美
-  + valorize, exalt, tribute, rave, eulogize, tribute
-+ 减轻，缓和，平息，抚慰
-  + mitigate, ameliorate, alleviate, assuage, concilliate, palliate, propitiate, moderate, abate, salve, defuse, placate
-+ 使满足
-  + satiate, sate, quench
-+ 开心，快乐，愉悦，欢乐
-  + elate, exhilarate, mirth, jovial
-+ 有活力
-  + animate, invigorous, bracing, brisk
-+ 解放
-  + emancipate, 
-+ 开脱，辩护，无罪
-  + vindicate, exculpate, exonerate, extenuate, reprieve, absolve
-+ 证实
-  + substantiate, corrobrate, demostrate
-+ 改善
-  + amelirate
-+ 促进
-  + facilitate, incubate
-+ 迷恋，吸引，迷人
-  + infatuate, allure, captivate，winsome, bewitching, appealing, prepossessing, riveting, arresting, ravish, enthrall
-+ 喜欢
-  + relish, adore
-+ 赞同，支持
-  + endorse, espouse
-+ 优势
-  + forte
-+ 有益的
-  + conducive
-+ 节俭，节约
-  + sparing, frugal
-+ 重要
-  +  consequence, crucial, substantial, signal, cardinal, principal, pivotal, fateful
-
-## Negative Words
-
-+ 怀疑
-  + dubious, skeptical
-+ 传染性的
-  + contagious, epidemic, infectious
-+ 指责，批评，谴责，斥责
-  + castigate,  censure, excoriate, fulminate, berate, vituperate, lambaste, reprove, bash, admonish, ream
-+ 净化，删去，审查
-  + expurgate, censor
++ 屈服：succumb
 + 镇压
-  + subjugate, repress, squelch
-+ 削弱
-  + emaciate, vitiate
-+ 贬低，侮辱
-  + depreciate, deprecate, pejorative, debase,invective
-+ 厌恶
-  + deprecate, abominate, execrate, nauseate, loath/loathe, repel
-+ 否认，反对
-  + repudiate, refute, disprove, antagonize, reproof, inveigh, averse, abnegate
-+ 折磨
-  + excruciate, lacerate, persecute, plague, agonize
-+ 诽谤
-  + calumniate, denigrate, besmirch
-+ 激怒，愤怒
-  + infuriate, exasperate, grate, irate, irritate, peeve, miff, sulk, irk
-+ 打扰
-  + faze, abstract, detract
-+ 犹豫
-  + vacillate, oscillate
-+ 不安，动乱
-  + discombobulate, restiveness, agitate, restive
-+ 玷污，弄脏，损坏，脏的
-  + maculate, taint, contaminate, tarnish, profane, stain, fectious, desecrate, besmirch, blemish
-+ 谄媚，拍马屁
-  + adulate, sycophant, ingratiating, snobbish
-+ 投降，屈服
-  + capitulate, surrender, succumb, submissive
-+ 争论
-  + expotulate, tiff
-+ 固执
-  + obstinate, dogged, wrongheaded, obdurate, mulish
-+ 冷酷，冷漠，无慈悲
-  + obdurate,  indurate, frigid, glacial, impassive, aloof, impersonal, relentless, ruthless, offish, ennul
-+ 尖酸刻薄
-  + scathing, acerbic
-+ 归罪
-  + indict, incriminate, inculpate
-+ 衰弱，虚弱，无活力
-  + prostrate, feeble, debilitate, enervate, effete, fatigue(疲惫), lag, flag, desiccate, languish, lank, infirm
-+ 诱骗，欺骗
-  + coax, dupe, hoodwink, cajole
-+ 合谋
-  + connive
-+ 恶化
-  + aggravate, exacerbate, inflame
-+ 过时，陈腐，陈词滥调
-  + obosolete, outmoded, moribund, banal, trite, truism, platitue
-+ 深奥的
-  + recondite, abstruse, opaque
-+ 后悔
-  + contrite, rue, remorse
-+ 过分华丽
-  + baroque, rhetoric, florid, garish
-+ 悲伤，忧郁
-  + grieve, aggrieve, plaintive, gloomy, hangog, lanchrymose, morose, mawkish, sepulchral
-+ 好斗
-  + aggresive, belligerent, warmonger
-+ 贪婪
-  + acquisitive, mercenary, voracious, glutton
-+ 破坏，摧毁
-  + pulverize, raze, fraction
-+ 嘲笑，恶搞，讽刺
-  + mock, burlesque, scoff, ridicule, spoof, gag, persiflage
-+ 障碍，阻碍，阻止
-  + snag, barricade, hobble, clog, check, buck, balk
-+ 无聊
-  + plodding, insipid
-+ 微不足道，不重要
-  + pidding, minutiae, inconsequence, trifling, nominal, marginal, inconsequential, trivial
-+ 轻视，忽略
-  + shrug, slight, diminish
-+ 费事，棘手，困难
-  + grueling, painstaking, laborious, demanding, exacting, taxing, ticklish
-+ 傲慢，自大
-  + arrogance, overweening, overbearing, patrionize, condescending, smug, snobbish, grandiose, pontificate
-+ 挥霍，浪费
-  + profligate, spendthrift, prodigal, lavish
-+ 无效，无力，徒劳
-  + hamstring, unavailable, barren
-+ 草率
-  + headlong, rash
++ 平息，抚慰，减轻，缓和
++ 改善，促进，有益于
++ 恶化，加剧，有害于
++ 激起，促使，导致：goad
++ 解放
++ 折磨，迫害
 + 羞辱，耻辱
-  + reproach, humiliate, stigma, stigmize
-+ 退缩
-  + recoil, flinch, wince, quail
-+ 狡猾
-  + pry, astute
-+ 轨迹
-  + machination, ruse
-+ 放弃，辞职
-  + abdicate, relinquish, resign
-+ 困惑
-  + obfuscate, befudle
-+ 粗鲁，无礼，举止不得体
-  + churlish, boorish, vulgar, uncouth, loutish, coarse, ill-bred, ill-mannered, bursque, discourteous, abrupt, sullen, surly, indecorous, ribald
-+ 病态，不舒服，不正常
-  + pathological, morbid, malaise
-+ 撤销，废除
-  + repeal, recant, countermand, annul
-+ 狭隘
-  + provincial, parochial, hidebound, insular,  myopic
-+ 善变，多变
-  + mercurial, whimsical, volatile, labile
-+ 世俗，尘世
-  + temporal, secular, worldly, mundane
+  + stigma
++ 重要: apocalyptic, full-bodied
 
-## Neutral Words
+## 数量尺寸类
 
-+ 激起，导致，促使（可能会有煽动贬义
-  + instigate, agitate, precipitate, motivate, incite, ignite, pique, incentive, tantalize, catalyze
-+ 宣布
-  + promulgate, avowal
-+ 报答/报复
-  + retaliate, requite, reciprocate
-+ 大，变大（褒贬都有
-  + potentiate, dilate, 
-  + escalate
-  + imperial, colossal
-+ 变多，提升
-  + accumulate, proliferate, elevate, cultivate, accrete, aggrandize, valorize
-+ 变少，降低
-  + attenuate, demote, abase, abate, retrench, diminish, shrink, soft-pedal
-+ 多
-  + myriad, cornucopious, spate, replete, undue, teeming, throng, lash, flush, peck
-+ 少，小
-  + mite, diminutive,  smattering,  wanting, dearth, paucity, speck
-+ 混合
-  + conflate, consillience, amalgate, concatenate
-+ 思索
-  + contemplate, meditate, ruminate, pensive
-+ 推测，假定
-  + speculate, conjecture, surmize, putative, presume, postulate
-+ 规定
-  + stipulate
-+ 预示
-  + adumbrate,
-+ 除去
-  + obliterate, dispose, exterminate
-+ 新手，无经验
-  + novice, neophyte, rookie, green, fledgling
-+ 明显，可感知
-  + perceptive, appreciable, telling
-+ 即兴
-  + extemporize, ad-lib, improvise
-+ 恳求
-  + beseech, entreat, implore, supplicate
-+ 熄灭
-  + quench, extinguish, dose
-+ 持续不断的
-  + unremitting ,relentless
-+ 断断续续的
-  + periodical, intermittent, fitful, desultory
++ 大：epic, gigantic
++ 小：cramped
++ 多：cornucopia, myriad
++ 少：shred
++ 变多，增加
++ 变少，减小
++ 过量，过剩：plethora
+
+## 评价类
+
++ 邪恶，恶意：wicked
++ 过时，久远，陈腐：archaic, bathetic, outmoded, dated, antiquated, hackneyed
++ 深奥，难懂：esoteric, hermetic, cryptic, convoluted
++ 肮脏，不干净：sordid
+
+## 不知道什么类
+
++ 幻觉，幻想：chimera
++ 即兴：ad-lib
++ 断断续续：sporadic, episodic, disjointed
++ 连续不断：
++ 争执，争吵：polemic
++ 短暂：meteoric
++ 预言，预示：prophetic, apocalyptic
+  + 吉兆，吉祥
+  + 凶兆，厄运
+
+## 不知道有多少同近义词总之先放在这里
+
++ 简洁：laconic
++ 天生，内在，固有：intrinsic
++ 明显：dramatic
++ 机智，智慧，明智：diplomatic, politic, levelheaded
++ 不明智：half-baked
++ 可笑：antic
++ 肉体的：somatic
++ 巡游，游历：peripatetic
++ 催眠：hypnotic, sorporific
++ 不同寻常：exotic, unwonted
++ 宏伟，壮丽，壮观：majestic
++ 恐惧，害怕：dread
